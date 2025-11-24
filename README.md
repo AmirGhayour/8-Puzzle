@@ -1,6 +1,6 @@
 # 8-Puzzle
 
-I developed this game during the Spring semester of 2018 as part of my _Artificial Intelligence and Expert Systems: Design of Algorithms_ course.
+I developed this game during the Spring semester of 2018 as part of my _Artificial Intelligence and Expert Systems_ course.
 
 I implemented the game using Java, and A* algorithm. No GUI. 
 
