@@ -11,4 +11,3 @@ To run the game, navigate to the bin directory and execute the following command
 java Main
 ```
 
-![Game Screenshot](TicTacToe-Screenshot.png)
